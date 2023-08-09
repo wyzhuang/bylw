@@ -1,0 +1,604 @@
+\begin{thebibliography}{10}
+
+\bibitem{DBLP:journals/tse/MondenHSSYBM13}
+Akito Monden, Takuma Hayashi, Shoji Shinoda, Kumiko Shirai, Junichi Yoshida,
+  Mike Barker and Ken{-}ichi Matsumoto.
+\newblock Assessing the Cost Effectiveness of Fault Prediction in Acceptance
+  Testing[J].
+\newblock {IEEE} Trans. Software Eng., 2013, 39(10): 1345--1357.
+
+\bibitem{DBLP:conf/issre/SmidtsSS96}
+Carol~S. Smidts, Robert Stoddard and Martin~A. Stutzke.
+\newblock Software reliability models: an approach to early reliability
+  prediction[C].
+\newblock  Seventh International Symposium on Software Reliability Engineering,
+  1996: 132--141.
+
+\bibitem{DBLP:journals/tse/HallBBGC12}
+Tracy Hall, Sarah Beecham, David Bowes, David Gray and Steve Counsell.
+\newblock A Systematic Literature Review on Fault Prediction Performance in
+  Software Engineering[J].
+\newblock {IEEE} Trans. Software Eng., 2012, 38(6): 1276--1304.
+
+\bibitem{DBLP:conf/icse/ShrikanthMM21}
+N.~C. Shrikanth, Suvodeep Majumder and Tim Menzies.
+\newblock Early Life Cycle Software Defect Prediction. Why? How?[C].
+\newblock  IEEE/ACM 43rd International Conference on Software Engineering
+  (ICSE), 2021: 448--459.
+
+\bibitem{DBLP:journals/jss/OzakinciT18}
+Rana Ozakinci and Ay{\c{c}}a Tarhan.
+\newblock Early software defect prediction: {A} systematic map and review[J].
+\newblock J. Syst. Softw., 2018, 144: 216--239.
+
+\bibitem{lxt2023}
+刘旭同，郭肇强，刘释然，张鹏，卢红敏，周毓明.
+\newblock 软件缺陷预测模型间的比较实验:问题,进展与挑战[J].
+\newblock 软件学报, 2023, 34(2): 582--624.
+
+\bibitem{DBLP:journals/csur/ZhaoDC23}
+Yunhua Zhao, Kostadin Damevski and Hui Chen.
+\newblock A Systematic Survey of Just-in-Time Software Defect Prediction[J].
+\newblock {ACM} Comput. Surv., 2023, 55(10): 201:1--201:35.
+
+\bibitem{DBLP:journals/tr/WangY13}
+Shuo Wang and Xin Yao.
+\newblock Using Class Imbalance Learning for Software Defect Prediction[J].
+\newblock {IEEE} Trans. Reliab., 2013, 62(2): 434--443.
+
+\bibitem{DBLP:journals/symmetry/BejjankiGG20}
+Kiran~Kumar Bejjanki, Jayadev Gyani and Narsimha Gugulothu.
+\newblock Class Imbalance Reduction {(CIR):} {A} Novel Approach to Software
+  Defect Prediction in the Presence of Class Imbalance[J].
+\newblock Symmetry, 2020, 12(3): 407--421.
+
+\bibitem{DBLP:conf/icse/TanTDM15}
+Ming Tan, Lin Tan, Sashank Dara and Caleb Mayeux.
+\newblock Online Defect Prediction for Imbalanced Data[C].
+\newblock  37th {IEEE/ACM} International Conference on Software Engineering,
+  2015: 99--108.
+
+\bibitem{DBLP:journals/tse/SongGS19}
+Qinbao Song, Yuchen Guo and Martin~J. Shepperd.
+\newblock A Comprehensive Investigation of the Role of Imbalanced Learning for
+  Software Defect Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2019, 45(12): 1253--1269.
+
+\bibitem{DBLP:journals/tse/McCabe76}
+Thomas~J. McCabe.
+\newblock A Complexity Measure[J].
+\newblock {IEEE} Trans. Software Eng., 1976, 2(4): 308--320.
+
+\bibitem{DBLP:journals/tse/ChidamberK94}
+Shyam~R. Chidamber and Chris~F. Kemerer.
+\newblock A Metrics Suite for Object Oriented Design[J].
+\newblock {IEEE} Trans. Software Eng., 1994, 20(6): 476--493.
+
+\bibitem{DBLP:conf/icse/NagappanB05}
+Nachiappan Nagappan and Thomas Ball.
+\newblock Use of relative code churn measures to predict system defect
+  density[C].
+\newblock  27th International Conference on Software Engineering, 2005:
+  284--292.
+
+\bibitem{DBLP:journals/bell/MockusW00}
+Audris Mockus and David~M. Weiss.
+\newblock Predicting risk of software changes[J].
+\newblock Bell Labs Tech. J., 2000, 5(2): 169--180.
+
+\bibitem{DBLP:journals/tse/NucciPRBOL18}
+Dario~Di Nucci, Fabio Palomba, Giuseppe~De Rosa, Gabriele Bavota, Rocco Oliveto
+  and Andrea~De Lucia.
+\newblock A Developer Centered Bug Prediction Model[J].
+\newblock {IEEE} Trans. Software Eng., 2018, 44(1): 5--24.
+
+\bibitem{DBLP:journals/tse/WangLNT20}
+Song Wang, Taiyue Liu, Jaechang Nam and Lin Tan.
+\newblock Deep Semantic Feature Learning for Software Defect Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2020, 46(12): 1267--1293.
+
+\bibitem{DBLP:journals/tr/WangZZ21}
+Hao Wang, Weiyuan Zhuang and Xiaofang Zhang.
+\newblock Software Defect Prediction Based on Gated Hierarchical LSTMs[J].
+\newblock {IEEE} Trans. Reliab., 2021, 70(2): 711--727.
+
+\bibitem{DBLP:journals/tr/XuWA21}
+Jiaxi Xu, Fei Wang and Jun Ai.
+\newblock Defect Prediction With Semantics and Context Features of Codes Based
+  on Graph Representation Learning[J].
+\newblock {IEEE} Trans. Reliab., 2021, 70(2): 613--625.
+
+\bibitem{DBLP:journals/tse/WenWC20}
+Ming Wen, Rongxin Wu and Shing{-}Chi Cheung.
+\newblock How Well Do Change Sequences Predict Defects? Sequence Learning from
+  Software Changes[J].
+\newblock {IEEE} Trans. Software Eng., 2020, 46(11): 1155--1175.
+
+\bibitem{DBLP:conf/msr/PornprasitT21}
+Chanathip Pornprasit and Chakkrit Tantithamthavorn.
+\newblock JITLine: A Simpler, Better, Faster, Finer-grained Just-In-Time Defect
+  Prediction[C].
+\newblock  18th {IEEE/ACM} International Conference on Mining Software
+  Repositories, 2021: 369--379.
+
+\bibitem{DBLP:journals/ase/MenziesMTCJB10}
+Tim Menzies, Zach Milton, Burak Turhan, Bojan Cukic, Yue Jiang and Ayse~Basar
+  Bener.
+\newblock Defect prediction from static code features: current results,
+  limitations, new approaches[J].
+\newblock Autom. Softw. Eng., 2010, 17(4): 375--407.
+
+\bibitem{DBLP:conf/icse/OmriS20}
+Safa Omri and Carsten Sinz.
+\newblock Deep Learning for Software Defect Prediction: {A} Survey[C].
+\newblock  Proceedings of the IEEE/ACM 42nd international conference on
+  software engineering workshops, 2020: 209--214.
+
+\bibitem{DBLP:journals/sp/LiuWW21a}
+Wenjian Liu, Baoping Wang and Wennan Wang.
+\newblock Deep Learning Software Defect Prediction Methods for Cloud
+  Environments Research[J].
+\newblock Sci. Program., 2021, 2323100: 1--11.
+
+\bibitem{DBLP:conf/iccsa/KumarDNSMKP21}
+Lov Kumar, Triyasha~Ghosh Dastidar, Lalita Bhanu~Murthy Neti, Shashank~Mouli
+  Satapathy, Sanjay Misra, Vipul Kocher and Srinivas Padmanabhuni.
+\newblock Deep-Learning Approach with DeepXplore for Software Defect Severity
+  Level Prediction[C].
+\newblock  Computational Science and Its Applications - {ICCSA} - 21st
+  International Conference, 2021: 398--410.
+
+\bibitem{DBLP:conf/qrs/YangLXZS15}
+Xinli Yang, David Lo, Xin Xia, Yun Zhang and Jianling Sun.
+\newblock Deep Learning for Just-in-Time Defect Prediction[C].
+\newblock  IEEE International Conference on Software Quality, Reliability and
+  Security, 2015: 17--26.
+
+\bibitem{DBLP:journals/sp/FanDYYC19}
+Guisheng Fan, Xuyang Diao, Huiqun Yu, Kang Yang and Liqiong Chen.
+\newblock Software Defect Prediction via Attention-Based Recurrent Neural
+  Network[J].
+\newblock Sci. Program., 2019, 6230953: 1--14.
+
+\bibitem{DBLP:conf/nips/ZhouLSD019}
+Yaqin Zhou, Shangqing Liu, Jing~Kai Siow, Xiaoning Du and Yang Liu.
+\newblock Devign: Effective Vulnerability Identification by Learning
+  Comprehensive Program Semantics via Graph Neural Networks[C].
+\newblock  Advances in Neural Information Processing Systems 32: Annual
+  Conference on Neural Information Processing Systems, 2019: 10197--10207.
+
+\bibitem{DBLP:journals/iet-sen/ZhuZYZ20}
+Kun Zhu, Nana Zhang, Shi Ying and Dandan Zhu.
+\newblock Within-project and cross-project just-in-time defect prediction based
+  on denoising autoencoder and convolutional neural network[J].
+\newblock {IET} Softw., 2020, 14(3): 185--195.
+
+\bibitem{DBLP:journals/tse/TongLW21}
+Haonan Tong, Bin Liu and Shihai Wang.
+\newblock Kernel Spectral Embedding Transfer Ensemble for Heterogeneous Defect
+  Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2021, 47(9): 1886--1906.
+
+\bibitem{gln2019}
+宫丽娜，姜淑娟，姜丽.
+\newblock 缺陷预测技术研究进展[J].
+\newblock 软件学报, 2019, 30(10): 3090--3114.
+
+\bibitem{DBLP:journals/ese/JiangCM08}
+Yue Jiang, Bojan Cukic and Yan Ma.
+\newblock Techniques for evaluating fault prediction models[J].
+\newblock Empir. Softw. Eng., 2008, 13(5): 561--595.
+
+\bibitem{DBLP:journals/bioinformatics/BaldiBCAN00}
+Pierre Baldi, S{\o}ren Brunak, Yves Chauvin, Claus A.~F. Andersen and Henrik
+  Nielsen.
+\newblock Assessing the accuracy of prediction algorithms for classification:
+  an overview[J].
+\newblock Bioinform., 2000, 16(5): 412--424.
+
+\bibitem{DBLP:conf/icse/JingYZWL14}
+Xiao{-}Yuan Jing, Shi Ying, Zhi{-}Wu Zhang, Shanshan Wu and Jin Liu.
+\newblock Dictionary learning based software defect prediction[C].
+\newblock  Proceedings of the 36th international conference on software
+  engineering, 2014: 414--423.
+
+\bibitem{DBLP:journals/tse/MenziesGF07}
+Tim Menzies, Jeremy Greenwald and Art Frank.
+\newblock Data Mining Static Code Attributes to Learn Defect Predictors[J].
+\newblock {IEEE} Trans. Software Eng., 2007, 33(1): 2--13.
+
+\bibitem{DBLP:journals/tosem/ZhouYLCLZQX18}
+Yuming Zhou, Yibiao Yang, Hongmin Lu, Lin Chen, Yanhui Li, Yangyang Zhao,
+  Junyan Qian and Baowen Xu.
+\newblock How Far We Have Progressed in the Journey? An Examination of
+  Cross-Project Defect Prediction[J].
+\newblock {ACM} Trans. Softw. Eng. Methodol., 2018, 27(1): 1:1--1:51.
+
+\bibitem{DBLP:journals/ijseke/ChenSW21}
+Liqiong Chen, Shilong Song and Can Wang.
+\newblock A Novel Effort Measure Method for Effort-Aware Just-in-Time Software
+  Defect Prediction[J].
+\newblock Int. J. Softw. Eng. Knowl. Eng., 2021, 31(8): 1145--1169.
+
+\bibitem{DBLP:conf/sigsoft/ZhangC13}
+Hongyu Zhang and S.~C. Cheung.
+\newblock A cost-effectiveness criterion for applying software defect
+  prediction models[C].
+\newblock  Proceedings of the 9th Joint Meeting on Foundations of Software
+  Engineering, 2013: 643--646.
+
+\bibitem{DBLP:conf/csmr/MendeK10}
+Thilo Mende and Rainer Koschke.
+\newblock Effort-Aware Defect Prediction Models[C].
+\newblock  14th European Conference on Software Maintenance and Reengineering,
+  {CSMR}, 2010: 107--116.
+
+\bibitem{DBLP:conf/kbse/JiangTK13}
+Tian Jiang, Lin Tan and Sunghun Kim.
+\newblock Personalized defect prediction[C].
+\newblock  28th IEEE/ACM International Conference on Automated Software
+  Engineering (ASE), 2013: 279--289.
+
+\bibitem{DBLP:conf/icsm/HuangXL17}
+Qiao Huang, Xin Xia and David Lo.
+\newblock Supervised vs Unsupervised Models: {A} Holistic Look at Effort-Aware
+  Just-in-Time Defect Prediction[C].
+\newblock  IEEE International Conference on Software Maintenance and Evolution
+  (ICSME), 2017: 159--170.
+
+\bibitem{DBLP:conf/promise/MendeK09}
+Thilo Mende and Rainer Koschke.
+\newblock Revisiting the evaluation of defect prediction models[C].
+\newblock  Proceedings of the 5th International Conference on Predictor Models
+  in Software Engineering, 2009: 1--10.
+
+\bibitem{DBLP:journals/tse/McIntoshK18}
+Shane McIntosh and Yasutaka Kamei.
+\newblock Are Fix-Inducing Changes a Moving Target? {A} Longitudinal Case Study
+  of Just-In-Time Defect Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2018, 44(5): 412--428.
+
+\bibitem{DBLP:conf/icse/LiX0WT20}
+Ke~Li, Zilin Xiang, Tao Chen, Shuo Wang and Kay~Chen Tan.
+\newblock Understanding the automated parameter optimization on transfer
+  learning for cross-project defect prediction: an empirical study[C].
+\newblock  Proceedings of the ACM/IEEE 42nd International Conference on
+  Software Engineering, 2020: 566--577.
+
+\bibitem{DBLP:conf/kbse/PornprasitTJFT21}
+Chanathip Pornprasit, Chakkrit Tantithamthavorn, Jirayus Jiarpakdee, Michael Fu
+  and Patanamon Thongtanunam.
+\newblock PyExplainer: Explaining the Predictions of Just-In-Time Defect
+  Models[C].
+\newblock  36th {IEEE/ACM} International Conference on Automated Software
+  Engineering, 2021: 407--418.
+
+\bibitem{DBLP:conf/msr/HoangDK0U19}
+Thong Hoang, Hoa~Khanh Dam, Yasutaka Kamei, David Lo and Naoyasu Ubayashi.
+\newblock DeepJIT: an end-to-end deep learning framework for just-in-time
+  defect prediction[C].
+\newblock  Proceedings of the 16th International Conference on Mining Software
+  Repositories, {MSR}, 2019: 34--45.
+
+\bibitem{DBLP:journals/ese/HuangXL19}
+Qiao Huang, Xin Xia and David Lo.
+\newblock Revisiting supervised and unsupervised models for effort-aware
+  just-in-time defect prediction[J].
+\newblock Empir. Softw. Eng., 2019, 24(5): 2823--2862.
+
+\bibitem{kamei2016studying}
+Yasutaka Kamei, Takafumi Fukushima, Shane McIntosh, Kazuhiro Yamashita, Naoyasu
+  Ubayashi and Ahmed~E Hassan.
+\newblock Studying just-in-time defect prediction using cross-project
+  models[J].
+\newblock Empirical Software Engineering, 2016, 21(5): 2072--2106.
+
+\bibitem{DBLP:conf/qrs/TianLTZ20}
+Yuli Tian, Ning Li, Jeff Tian and Wei Zheng.
+\newblock How Well Just-In-Time Defect Prediction Techniques Enhance Software
+  Reliability?[C].
+\newblock  20th {IEEE} International Conference on Software Quality,
+  Reliability and Security, 2020: 212--221.
+
+\bibitem{DBLP:journals/tr/DuanXFY22}
+Ruifeng Duan, Haitao Xu, Yuanrui Fan and Meng Yan.
+\newblock The Impact of Duplicate Changes on Just-in-Time Defect Prediction[J].
+\newblock {IEEE} Trans. Reliab., 2022, 71(3): 1294--1308.
+
+\bibitem{DBLP:journals/tse/FanXCLHL21}
+Yuanrui Fan, Xin Xia, Daniel~Alencar da~Costa, David Lo, Ahmed~E. Hassan and
+  Shanping Li.
+\newblock The Impact of Mislabeled Changes by {SZZ} on Just-in-Time Defect
+  Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2021, 47(8): 1559--1586.
+
+\bibitem{DBLP:journals/jzusc/ChenWCXCC22}
+Jinfu Chen, Xiaoli Wang, Saihua Cai, Jiaping Xu, Jingyi Chen and Haibo Chen.
+\newblock A software defect prediction method with metric compensation based on
+  feature selection and transfer learning[J].
+\newblock Frontiers Inf. Technol. Electron. Eng., 2022, 23(5): 715--731.
+
+\bibitem{DBLP:conf/iccsa/AwotundeMAMKL22}
+Joseph~Bamidele Awotunde, Sanjay Misra, Emmanuel~Abidemi Adeniyi,
+  Abiodun~Kazeem Moses, Manju Kaushik and Morolake~Oladayo Lawrence.
+\newblock A Feature Selection-Based {K-NN} Model for Fast Software Defect
+  Prediction[C].
+\newblock  Computational Science and Its Applications?ICCSA 2022 Workshops,
+  2022: 49--61.
+
+\bibitem{DBLP:journals/access/BalaSSM23}
+Yahaya~Zakariyau Bala, Pathiah~Abdul Samat, Khaironi~Yatim Sharif and Noridayu
+  Manshor.
+\newblock Improving Cross-Project Software Defect Prediction Method Through
+  Transformation and Feature Selection Approach[J].
+\newblock {IEEE} Access, 2023, 11: 2318--2326.
+
+\bibitem{2020LIMCR}
+Yumei Wu, Jingxiu Yao, Shuo Chang and Bin Liu.
+\newblock LIMCR: Less-Informative Majorities Cleaning Rule Based on Nave Bayes
+  for Imbalance Learning in Software Defect Prediction[J].
+\newblock Applied Sciences, 2020, 10(23): 8324--8348.
+
+\bibitem{DBLP:journals/jair/ChawlaBHK02}
+Nitesh~V. Chawla, Kevin~W. Bowyer, Lawrence~O. Hall and W.~Philip Kegelmeyer.
+\newblock {SMOTE:} Synthetic Minority Over-sampling Technique[J].
+\newblock J. Artif. Intell. Res., 2002, 16: 321--357.
+
+\bibitem{DBLP:journals/tse/BenninKPMM18}
+Kwabena~Ebo Bennin, Jacky Keung, Passakorn Phannachitta, Akito Monden and
+  Solomon Mensah.
+\newblock {MAHAKIL:} Diversity Based Oversampling Approach to Alleviate the
+  Class Imbalance Issue in Software Defect Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2018, 44(6): 534--550.
+
+\bibitem{DBLP:conf/icse/AgrawalM18}
+Amritanshu Agrawal and Tim Menzies.
+\newblock Is "better data" better than "better data miners"?: on the benefits
+  of tuning {SMOTE} for defect prediction[C].
+\newblock  Proceedings of the 40th International Conference on Software
+  Engineering, 2018: 1050--1061.
+
+\bibitem{DBLP:journals/infsof/FengKYXBKZ21}
+Shuo Feng, Jacky Keung, Xiao Yu, Yan Xiao, Kwabena~Ebo Bennin, Md.~Alamgir
+  Kabir and Miao Zhang.
+\newblock {COSTE:} Complexity-based OverSampling TEchnique to alleviate the
+  class imbalance problem in software defect prediction[J].
+\newblock Inf. Softw. Technol., 2021, 129: 106432.
+
+\bibitem{DBLP:conf/msr/EkanayakeTGB09}
+Jayalath Ekanayake, Jonas Tappolet, Harald~C. Gall and Abraham Bernstein.
+\newblock Tracking concept drift of software projects using defect prediction
+  quality[C].
+\newblock  Proceedings of the 6th International Working Conference on Mining
+  Software Repositories, 2009: 51--60.
+
+\bibitem{cl2019}
+蔡亮，范元瑞，鄢萌，夏鑫.
+\newblock 即时软件缺陷预测研究进展[J].
+\newblock 软件学报, 2019, 30(5): 1288--1307.
+
+\bibitem{DBLP:journals/ese/NugrohoHM20}
+Yusuf~Sulistyo Nugroho, Hideaki Hata and Kenichi Matsumoto.
+\newblock How different are different diff algorithms in Git?[J].
+\newblock Empir. Softw. Eng., 2020, 25(1): 790--823.
+
+\bibitem{DBLP:conf/icse/RosaPSTBLO21}
+Giovanni Rosa, Luca Pascarella, Simone Scalabrino, Rosalia Tufano, Gabriele
+  Bavota, Michele Lanza and Rocco Oliveto.
+\newblock Evaluating {SZZ} Implementations Through a Developer-informed
+  Oracle[C].
+\newblock  43rd {IEEE/ACM} International Conference on Software Engineering,
+  2021: 436--447.
+
+\bibitem{DBLP:journals/sigsoft/SliwerskiZZ05}
+Jacek Sliwerski, Thomas Zimmermann and Andreas Zeller.
+\newblock When do changes induce fixes?[J].
+\newblock {ACM} {SIGSOFT} Softw. Eng. Notes, 2005, 30(4): 1--5.
+
+\bibitem{cs2020}
+陈曙，叶俊民，刘童.
+\newblock 一种基于领域适配的跨项目软件缺陷预测方法[J].
+\newblock 软件学报, 2020, 31(2): 266--281.
+
+\bibitem{myq2023}
+梅元清，郭肇强，周慧聪，李言辉，陈林，卢红敏，周毓明.
+\newblock 面向对象软件度量阈值的确定方法：问题、进展与挑战[J].
+\newblock 软件学报, 2023, 34(01): 50--102.
+
+\bibitem{DBLP:conf/icse/Hassan09}
+Ahmed~E. Hassan.
+\newblock Predicting faults using the complexity of code changes[C].
+\newblock  31st International Conference on Software Engineering, 2009: 78--88.
+
+\bibitem{DBLP:journals/tse/KoruZEL09}
+Akif~G{\"{u}}nes Koru, Dongsong Zhang, Khaled~El Emam and Hongfang Liu.
+\newblock An Investigation into the Functional Form of the Size-Defect
+  Relationship for Software Modules[J].
+\newblock {IEEE} Trans. Software Eng., 2009, 35(2): 293--304.
+
+\bibitem{DBLP:journals/tse/PurushothamanP05}
+Ranjith Purushothaman and Dewayne~E. Perry.
+\newblock Toward Understanding the Rhetoric of Small Source Code Changes[J].
+\newblock {IEEE} Trans. Software Eng., 2005, 31(6): 511--526.
+
+\bibitem{DBLP:journals/tse/GravesKMS00}
+Todd~L. Graves, Alan~F. Karr, J.~S. Marron and Harvey~P. Siy.
+\newblock Predicting Fault Incidence Using Software Change History[J].
+\newblock {IEEE} Trans. Software Eng., 2000, 26(7): 653--661.
+
+\bibitem{DBLP:journals/tse/KimWZ08}
+Sunghun Kim, E.~James~Whitehead Jr. and Yi~Zhang.
+\newblock Classifying Software Changes: Clean or Buggy?[J].
+\newblock {IEEE} Trans. Software Eng., 2008, 34(2): 181--196.
+
+\bibitem{DBLP:conf/sigsoft/ShihabHAJ12}
+Emad Shihab, Ahmed~E. Hassan, Bram Adams and Zhen~Ming Jiang.
+\newblock An industrial study on the risk of software changes[C].
+\newblock  20th {ACM} {SIGSOFT} Symposium on the Foundations of Software
+  Engineering (FSE-20), 2012: 62.
+
+\bibitem{DBLP:journals/tse/KameiSAHMSU13}
+Yasutaka Kamei, Emad Shihab, Bram Adams, Ahmed~E. Hassan, Audris Mockus, Anand
+  Sinha and Naoyasu Ubayashi.
+\newblock A Large-Scale Empirical Study of Just-in-Time Quality Assurance[J].
+\newblock {IEEE} Trans. Software Eng., 2013, 39(6): 757--773.
+
+\bibitem{DBLP:journals/compsec/GuptaJB22}
+Neha Gupta, Vinita Jindal and Punam Bedi.
+\newblock {CSE-IDS:} Using cost-sensitive deep learning and ensemble algorithms
+  to handle class imbalance in network-based intrusion detection systems[J].
+\newblock Comput. Secur., 2022, 112: 102499.
+
+\bibitem{DBLP:journals/kbs/RenZKFNGY022}
+Zhijun Ren, Yongsheng Zhu, Wei Kang, Hong Fu, Qingbo Niu, Dawei Gao, Ke~Yan and
+  Jun Hong.
+\newblock Adaptive cost-sensitive learning: Improving the convergence of
+  intelligent diagnosis models under imbalanced data[J].
+\newblock Knowl. Based Syst., 2022, 241: 108296.
+
+\bibitem{DBLP:journals/jetai/DeviBP22}
+Debashree Devi, Saroj~K. Biswas and Biswajit Purkayastha.
+\newblock Correlation-based Oversampling aided Cost Sensitive Ensemble learning
+  technique for Treatment of Class Imbalance[J].
+\newblock J. Exp. Theor. Artif. Intell., 2022, 34(1): 143--174.
+
+\bibitem{DBLP:journals/access/MatloobGTAAKAS21}
+Faseeha Matloob, Taher~M. Ghazal, Nasser Taleb, Shabib Aftab, Munir Ahmad,
+  Muhammad~Adnan Khan, Sagheer Abbas and Tariq~Rahim Soomro.
+\newblock Software Defect Prediction Using Ensemble Learning: {A} Systematic
+  Literature Review[J].
+\newblock {IEEE} Access, 2021, 9: 98754--98771.
+
+\bibitem{DBLP:journals/cj/ChadhaK21}
+Akshma Chadha and Baijnath Kaushik.
+\newblock A Survey on Prediction of Suicidal Ideation Using Machine and
+  Ensemble Learning[J].
+\newblock Comput. J., 2021, 64(11): 1617--1632.
+
+\bibitem{DBLP:journals/apin/RathoreK21}
+Santosh~Singh Rathore and Sandeep Kumar.
+\newblock An empirical study of ensemble techniques for software fault
+  prediction[J].
+\newblock Appl. Intell., 2021, 51(6): 3615--3644.
+
+\bibitem{DBLP:journals/jcss/FreundS97}
+Yoav Freund and Robert~E. Schapire.
+\newblock A Decision-Theoretic Generalization of On-Line Learning and an
+  Application to Boosting[J].
+\newblock J. Comput. Syst. Sci., 1997, 55(1): 119--139.
+
+\bibitem{DBLP:journals/jetai/XuJL21}
+Wenqiang Xu, Liangxiao Jiang and Chaoqun Li.
+\newblock Resampling-based noise correction for crowdsourcing[J].
+\newblock J. Exp. Theor. Artif. Intell., 2021, 33(6): 985--999.
+
+\bibitem{DBLP:conf/icmla/JohnsonK22}
+Justin~M. Johnson and Taghi~M. Khoshgoftaar.
+\newblock Cost-Sensitive Ensemble Learning for Highly Imbalanced
+  Classification[C].
+\newblock  21st {IEEE} International Conference on Machine Learning and
+  Applications, 2022: 1427--1434.
+
+\bibitem{fukushima2014empirical}
+Takafumi Fukushima, Yasutaka Kamei, Shane McIntosh, Kazuhiro Yamashita and
+  Naoyasu Ubayashi.
+\newblock An empirical study of just-in-time defect prediction using
+  cross-project models[C].
+\newblock  Proceedings of the 11th Working Conference on Mining Software
+  Repositories, 2014: 172--181.
+
+\bibitem{DBLP:conf/sigsoft/YangZLZL0XL16}
+Yibiao Yang, Yuming Zhou, Jinping Liu, Yangyang Zhao, Hongmin Lu, Lei Xu,
+  Baowen Xu and Hareton Leung.
+\newblock Effort-aware just-in-time defect prediction: simple unsupervised
+  models could be better than supervised models[C].
+\newblock  Proceedings of the 24th {ACM} {SIGSOFT} International Symposium on
+  Foundations of Software Engineering, 2016: 157--168.
+
+\bibitem{DBLP:conf/icse/NagappanBZ06}
+Nachiappan Nagappan, Thomas Ball and Andreas Zeller.
+\newblock Mining metrics to predict component failures[C].
+\newblock  28th International Conference on Software Engineering), Shanghai,
+  China, May 20-28, 2006, 2006: 452--461.
+
+\bibitem{DBLP:conf/wcre/MoralesMK15}
+Rodrigo Morales, Shane McIntosh and Foutse Khomh.
+\newblock Do code review practices impact design quality? {A} case study of the
+  Qt, VTK, and {ITK} projects[C].
+\newblock  22nd {IEEE} International Conference on Software Analysis,
+  Evolution, and Reengineering, 2015: 171--180.
+
+\bibitem{DBLP:conf/icse/ZhouM11}
+Minghui Zhou and Audris Mockus.
+\newblock Does the initial environment impact the future of developers[C].
+\newblock  Proceedings of the 33rd International Conference on Software
+  Engineering, 2011: 271--280.
+
+\bibitem{DBLP:conf/sigsoft/RosenGS15}
+Christoffer Rosen, Ben Grawi and Emad Shihab.
+\newblock Commit guru: analytics and risk prediction of software commits[C].
+\newblock  Proceedings of the 10th Joint Meeting on Foundations of Software
+  Engineering, 2015: 966--969.
+
+\bibitem{DBLP:journals/ieicetd/MonKCM23}
+Khine~Yin Mon, Masanari Kondo, Eunjong Choi and Osamu Mizuno.
+\newblock Commit-Based Class-Level Defect Prediction for Python Projects[J].
+\newblock {IEICE} Trans. Inf. Syst., 2023, 106(2): 157--165.
+
+\bibitem{DBLP:conf/icsm/KazemiLM22}
+Farshad Kazemi, Maxime Lamothe and Shane McIntosh.
+\newblock Exploring the Notion of Risk in Code Reviewer Recommendation[C].
+\newblock  {IEEE} International Conference on Software Maintenance and
+  Evolution, 2022: 139--150.
+
+\bibitem{DBLP:journals/ase/NadimMR22}
+Md. Nadim, Debajyoti Mondal and Chanchal~K. Roy.
+\newblock Leveraging structural properties of source code graphs for
+  just-in-time bug prediction[J].
+\newblock Autom. Softw. Eng., 2022, 29(1): 27.
+
+\bibitem{DBLP:journals/tse/ShepperdBH14}
+Martin~J. Shepperd, David Bowes and Tracy Hall.
+\newblock Researcher Bias: The Use of Machine Learning in Software Defect
+  Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2014, 40(6): 603--616.
+
+\bibitem{scott1974cluster}
+Andrew~Jhon Scott and M~Knott.
+\newblock A cluster analysis method for grouping means in the analysis of
+  variance[J].
+\newblock Biometrics, 1974, : 507--512.
+
+\bibitem{DBLP:conf/kdd/Ribeiro0G16}
+Marco~T{\'{u}}lio Ribeiro, Sameer Singh and Carlos Guestrin.
+\newblock "Why Should {I} Trust You?": Explaining the Predictions of Any
+  Classifier[C].
+\newblock  Proceedings of the 22nd {ACM} {SIGKDD} International Conference on
+  Knowledge Discovery and Data Mining, 2016: 1135--1144.
+
+\bibitem{DBLP:conf/icml/HulseKN07}
+Jason~Van Hulse, Taghi~M. Khoshgoftaar and Amri Napolitano.
+\newblock Experimental perspectives on learning from imbalanced data[C].
+\newblock  Proceedings of the 24th international conference on Machine
+  learning, 2007: 935--942.
+
+\bibitem{DBLP:conf/icse/CabralMSM19}
+George~G. Cabral, Leandro~L. Minku, Emad Shihab and Suhaib Mujahid.
+\newblock Class imbalance evolution and verification latency in just-in-time
+  software defect prediction[C].
+\newblock  Proceedings of the 41st International Conference on Software
+  Engineering, 2019: 666--676.
+
+\bibitem{DBLP:journals/tse/TabassumMF23}
+Sadia Tabassum, Leandro~L. Minku and Danyi Feng.
+\newblock Cross-Project Online Just-In-Time Software Defect Prediction[J].
+\newblock {IEEE} Trans. Software Eng., 2023, 49(1): 268--287.
+
+\bibitem{DBLP:conf/icic/HanWM05}
+Hui Han, Wenyuan Wang and Binghuan Mao.
+\newblock Borderline-SMOTE: {A} New Over-Sampling Method in Imbalanced Data
+  Sets Learning[C].
+\newblock  Advances in Intelligent Computing, International Conference on
+  Intelligent Computing, 2005: 878--887.
+
+\end{thebibliography}

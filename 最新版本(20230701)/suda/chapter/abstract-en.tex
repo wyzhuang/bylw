@@ -1,0 +1,21 @@
+\begin{englishabstract}
+Just-in-time software defect prediction technology focuses on the actual development process of a project, aiming to predict in advance whether there are defects in every code change submitted by developers, so as to help developers optimize resource allocation, and improve code quality. Due to the differences in time order of commits and in quality, the level of attention given to them should also be different, that is, different submitted samples should be given different weights. However, there currently needs to be more relevant research on sample weights in the field of just-in-time software defect prediction. This thesis focuses on the continuous development process of the project. It proposes sample weights can be updated as the prediction model iterates to preprocess the data, allowing the prediction model to focus on more important samples and using sample weights to alleviate the problem of data with imbalanced class.
+
+(1) This thesis proposes a sample importance weight based on time dimension to address the need for more differentiation of time order of commits in existing defect prediction methods. This method extracts time dimension information from the version control system of the project and then uses a time decay function to assign higher weights to the newly submitted samples, while the old committed samples will have lower weights. These weights will affect the importance of defect prediction models on different commits, thereby improving the performance of defect prediction targetedly. This article conducted experiments on 10 open source projects, each with 5 data intervals and 9 iteration processes, on a total of 450 tasks in a model iteration scenario to verify the effectiveness of the sample weights.
+
+(2) This thesis proposes a sample importance weight based on feature contribution to address the difficulty in distinguishing commits at similar times. This method focuses on submitted samples that were misclassified during the previous round of model iteration, calculates their feature contribution and classification propensity through a machine learning interpretation model, assigns higher weights to commits with significant deviations between classification propensity and actual categories, and finally performs denoising processing. Experiments on 450 tasks are performed to verify the effectiveness of sample weights based on feature contribution.
+
+(3) This thesis proposes a data sampling method based on sample importance weights to solve the problem that the selected samples for synthesis using data sampling methods in defect prediction that are not representative. On the one hand, this method sorts submitted samples through sample importance weights, selecting important samples for synthesizing new ones; On the other hand, when calculating the sample distance, the importance weight of the samples will also be considered, resulting in a more diverse synthesized sample. Experiments on 450 tasks in this paper verify the effectiveness of the data sampling method that integrates time dimension and feature contribution.
+
+This thesis proposes corresponding solutions to the three remaining problems in existing research, further improving the performance of just-in-time software defect prediction. It is of great significance for timely defect detection, improving code quality, scheduling testing resources, and reducing maintenance costs.
+
+
+
+
+\englishkeywords{software defect prediction, data preprocessing, sample weights, class imbalance}
+
+\end{englishabstract}
+
+\ensoochowauthor{Weiyuan Zhuang\quad }
+
+\ensoochowtutor{Xiaofang Zhang\quad}

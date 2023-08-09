@@ -1,0 +1,165 @@
+%% Thesis Template of Chinese Academy of Sciences
+%%   for using CASthesis package with LaTeX2e
+%%
+%% Created by Ling-Yun Wu <aloft@ctex.org>
+%%
+%% Version 0.1 (2004-08-15)
+%% Modified by Lei Zhao, 2020-03-15
+
+\documentclass[openany]{SUDAthesis}
+\usepackage[top=3.4cm, bottom=3.2cm, left=2.75cm, right=2.75cm, headsep=0.4cm, foot=1.12cm]{geometry}
+%\usepackage{algorithm}
+%\usepackage{algorithmic}
+\usepackage[linesnumbered, ruled, vlined, shortend]{algorithm2e}
+\usepackage{cite}
+\usepackage{tabularx}
+\usepackage[normalsize,center]{caption2}
+\usepackage{listings}
+\usepackage{longtable}
+\usepackage{colortbl}
+\usepackage{graphicx}
+\usepackage{multirow}
+\usepackage{subfigure}
+\usepackage{stmaryrd}
+\usepackage{txfonts}
+\usepackage{mathrsfs}
+\usepackage{enumerate}
+\usepackage{ccmap}
+\usepackage{subfigure}
+\usepackage{pdfpages}
+\usepackage{comment}
+\usepackage{setspace}
+\usepackage{hyperref}
+% 取消链接的颜色
+%\hypersetup{colorlinks=false}
+
+\renewenvironment{quote}{\vspace{2ex} \newline \kaishu “}{”  \vspace{2ex} \newline }
+
+% algorithm2e使用
+\renewcommand{\listalgorithmcfname}{算\CASTspace 法}
+\renewcommand{\algorithmcfname}{算法}
+
+% algorithm或algorithmc使用
+%\renewcommand*\listalgorithmname{算\CASTspace 法}
+%\floatname{algorithm}{算法}
+
+\newcommand{\tabincell}[2]{\begin{tabular}{@{}#1@{}}#2\end{tabular}}
+
+% 参考文献上标格式定义
+\newcommand{\ucite}[1]{\textsuperscript{\cite{#1}}}
+
+% 算法带章节编号
+\numberwithin{algocf}{chapter}
+\renewcommand{\thealgocf}{\arabic{chapter}-\arabic{algocf}}
+
+\begin{document}
+
+    % 小节标题靠左对齐（必须在 \begin{document} 之后，否则无效}
+    \CTEXsetup[format+={\flushleft}]{section}
+
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    %% 封面部分
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    % 中文封面内容
+    \title{即时软件缺陷预测中基于样本权重的数据预处理方法}
+    %\author{庄伟渊}
+    %\advisor{章晓芳 \quad 教授}
+    %\degree{硕~士~}
+    %\major{计算机科学与技术}
+    %\minor{软件缺陷预测}
+    %\submitdate{2023年3月}
+    %\grade{2~0~2~3~届}
+
+     % 英文封面内容
+    \englishtitle{Data preprocessing method based on sample weight in just-in-time software defect prediction}
+    \englishAbstractTitle{Data preprocessing method based on sample weight in just-in-time software defect prediction}
+    \englishfancytitle{Data preprocessing method based on sample weight in just-in-time software defect prediction}
+    \englishauthor{Weiyuan Zhuang}
+    \englishadvisor{Xiaofang Zhang}
+    
+    % 封面
+    %\CoverPage
+    \includepdf{cover.pdf}
+    \cleardoublepage
+    
+    % 版权页
+    %\CopyrightPage
+    \includepdf{copyrightPage1.pdf}
+    \cleardoublepage
+    \includepdf{copyrightPage2.pdf}
+    
+    %前言部分
+    \frontmatter
+    
+    % 中英文摘要
+    \setAbstractStyle
+    \input{../chapter/abstract-ch}
+    
+    \newpage
+    \thispagestyle{empty}
+    \setEnAbstractStyle
+    \input{../chapter/abstract-en}
+    
+    % 目录
+    \newpage
+    \thispagestyle{empty}
+    \setContentsStyle
+    \tableofcontents
+    
+    % 插图目录
+    %\listoffigures
+    
+    % 表格目录
+    %\listoftables
+    
+    % 算法目录
+    % \listofalgorithms
+    
+    %先定义好环境变量名称
+    \newtheorem{definition}{定义}
+    \newtheorem{lemma}{引理}
+    \newtheorem{theorem}{定理}
+    
+    %正文部分
+    \mainmatter
+    
+    %insert all your fig files dirs here
+    %\graphicspath{../fig}
+    
+    %正文开始
+    \setstyle
+    \xiaosihao
+    
+    \input{../chapter/chap01}
+    \input{../chapter/chap02}
+    \input{../chapter/chap03}
+    \input{../chapter/chap04}
+    \input{../chapter/chap05}
+    \input{../chapter/chap06}
+
+    
+    %附件部分
+    %\backmatter
+    
+    %参考文献
+    \xiaosihao
+    \kaishu
+    \bibliographystyle{sudabst}
+    \bibliography{../bib/mybib}
+    
+    \songti
+    
+    %发表文章目录
+    \input{../chapter/pub}
+    
+    %致谢
+    \newpage
+    \thispagestyle{empty}
+    \setThanksStyle
+    \input{../chapter/thanks}
+    
+    %附录
+    %\appendix
+    %\input{../chapter/xxx}
+
+\end{document}

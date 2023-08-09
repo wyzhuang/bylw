@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: main.aux
+The style file: sudabst.bst
+Database file #1: ../bib/mybib.bib
+Repeated entry---line 1573 of file ../bib/mybib.bib
+ : @inproceedings{fukushima2014empirical
+ :                                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1666 of file ../bib/mybib.bib
+ : @inproceedings{DBLP:conf/icse/NagappanB05
+ :                                          ,
+I'm skipping whatever remains of this entry
+(There were 2 error messages)

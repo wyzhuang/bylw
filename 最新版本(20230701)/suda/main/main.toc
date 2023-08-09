@@ -1,0 +1,80 @@
+\let \CTEX@spaceChar \relax 
+\contentsline {chapter}{\numberline {第一章\hspace {0.3em}}绪论}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}研究背景及意义}{1}{section.1.1}
+\contentsline {section}{\numberline {1.2}研究现状}{2}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}软件缺陷预测}{2}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}数据预处理技术}{5}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}研究内容}{7}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}基于时间维度的样本重要性权重}{8}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}基于特征贡献度的样本重要性权重}{8}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}基于样本重要性权重的过采样方法}{9}{subsection.1.3.3}
+\contentsline {section}{\numberline {1.4}论文组织结构}{10}{section.1.4}
+\contentsline {chapter}{\numberline {第二章\hspace {0.3em}}背景知识}{11}{chapter.2}
+\contentsline {section}{\numberline {2.1}即时软件缺陷预测基本流程}{11}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}数据采集}{12}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}数据预处理}{12}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}模型构建}{13}{subsection.2.1.3}
+\contentsline {section}{\numberline {2.2}软件特征}{14}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}基于变更元数据的特征}{14}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}基于变更代码内容的特征}{15}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}基于软件演进过程的特征}{16}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}基于多源软件制品的特征}{16}{subsection.2.2.4}
+\contentsline {section}{\numberline {2.3}类不平衡}{17}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}采样方法}{17}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}代价敏感学习方法}{18}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}集成学习方法}{19}{subsection.2.3.3}
+\contentsline {section}{\numberline {2.4}本章小结}{19}{section.2.4}
+\contentsline {chapter}{\numberline {第三章\hspace {0.3em}}基于时间维度的样本重要性权重}{20}{chapter.3}
+\contentsline {section}{\numberline {3.1}研究动机}{20}{section.3.1}
+\contentsline {section}{\numberline {3.2}研究方法}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}项目划分}{21}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}特征提取}{22}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}数据规范化}{22}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}计算样本的时间权重}{23}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}模型训练}{24}{subsection.3.2.5}
+\contentsline {section}{\numberline {3.3}实验设置}{24}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}实验数据集}{25}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}对比方法}{25}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}评价指标}{26}{subsection.3.3.3}
+\contentsline {section}{\numberline {3.4}实验结果和分析}{27}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}三种时间衰减因子的性能比较}{27}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}与对比方法的性能比较}{28}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}参数实验和讨论}{29}{subsection.3.4.3}
+\contentsline {section}{\numberline {3.5}本章小结}{33}{section.3.5}
+\contentsline {chapter}{\numberline {第四章\hspace {0.3em}}基于特征贡献度的样本重要性权重}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}研究动机}{34}{section.4.1}
+\contentsline {section}{\numberline {4.2}研究方法}{34}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}分配基础权重}{35}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}计算特征贡献度权重}{36}{subsection.4.2.2}
+\contentsline {section}{\numberline {4.3}实验设置}{38}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}实验数据集}{38}{subsection.4.3.1}
+\contentsline {subsection}{\numberline {4.3.2}对比方法}{38}{subsection.4.3.2}
+\contentsline {subsection}{\numberline {4.3.3}评价指标}{39}{subsection.4.3.3}
+\contentsline {subsection}{\numberline {4.3.4}参数设置}{39}{subsection.4.3.4}
+\contentsline {section}{\numberline {4.4}实验结果和分析}{39}{section.4.4}
+\contentsline {subsection}{\numberline {4.4.1}与对比方法的性能比较}{39}{subsection.4.4.1}
+\contentsline {subsection}{\numberline {4.4.2}消融实验}{40}{subsection.4.4.2}
+\contentsline {subsection}{\numberline {4.4.3}参数实验和讨论}{43}{subsection.4.4.3}
+\contentsline {section}{\numberline {4.5}本章小结}{46}{section.4.5}
+\contentsline {chapter}{\numberline {第五章\hspace {0.3em}}基于样本重要性权重的数据采样方法}{47}{chapter.5}
+\contentsline {section}{\numberline {5.1}研究动机}{47}{section.5.1}
+\contentsline {section}{\numberline {5.2}研究方法}{47}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}计算权重系数}{48}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}挑选中心样本}{49}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}合成少数样本}{49}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}平衡数据集}{50}{subsection.5.2.4}
+\contentsline {section}{\numberline {5.3}实验设置}{51}{section.5.3}
+\contentsline {subsection}{\numberline {5.3.1}实验数据集}{51}{subsection.5.3.1}
+\contentsline {subsection}{\numberline {5.3.2}对比方法}{51}{subsection.5.3.2}
+\contentsline {subsection}{\numberline {5.3.3}评价指标}{52}{subsection.5.3.3}
+\contentsline {section}{\numberline {5.4}实验结果和分析}{52}{section.5.4}
+\contentsline {subsection}{\numberline {5.4.1}与对比方法的性能比较}{52}{subsection.5.4.1}
+\contentsline {subsection}{\numberline {5.4.2}消融实验}{54}{subsection.5.4.2}
+\contentsline {subsection}{\numberline {5.4.3}参数实验和讨论}{56}{subsection.5.4.3}
+\contentsline {section}{\numberline {5.5}本章小结}{58}{section.5.5}
+\contentsline {chapter}{\numberline {第六章\hspace {0.3em}}总结与展望}{60}{chapter.6}
+\contentsline {section}{\numberline {6.1}总结}{60}{section.6.1}
+\contentsline {section}{\numberline {6.2}展望}{61}{section.6.2}
+\contentsline {chapter}{参考文献}{62}{chapter*.4}
+\contentsline {chapter}{攻读硕士学位期间发表的论文}{74}{chapter*.5}
+\contentsline {chapter}{致\CTEX@spaceChar \CTEX@spaceChar 谢}{75}{chapter*.6}
